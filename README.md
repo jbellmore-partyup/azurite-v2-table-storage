@@ -1,0 +1,1 @@
+# azurite-v2-table-storage
